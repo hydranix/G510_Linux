@@ -1,3 +1,6 @@
+/*    G510_Linux - Class for controlling LED backlight on Logitech G510
+ *      Adapted from rainbow510 by hazardousparticle (https://github.com/hazardousparticle/rainbow510)
+ */
 #include "G510.hpp"
 
 #include <libusb-1.0/libusb.h>
